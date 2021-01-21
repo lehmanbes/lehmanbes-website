@@ -31,17 +31,23 @@ html .text-hover-primary:hover {
 
 html .text-color-secondary,
 html .text-secondary {
-	color: #fa827a !important;
+	color: #0c65a2 !important;
 }
 
 html .text-color-hover-secondary:hover,
 html .text-hover-secondary:hover {
-	color: #fa827a !important;
+	color: #0c65a2 !important;
 }
 
 html .text-color-tertiary,
 html .text-tertiary {
-	color: #859428 !important;
+	color: #0c65a2 !important;
+}
+
+
+html .text-color-four,
+html .text-four {
+	color: #2c5360 !important;
 }
 
 html .text-color-hover-tertiary:hover,
@@ -104,7 +110,7 @@ html .svg-stroke-color-primary svg polygon {
 }
 
 html .svg-fill-color-secondary {
-	fill: #fa827a !important;
+	fill: #0c65a2 !important;
 }
 
 html .svg-fill-color-secondary svg path,
@@ -112,11 +118,11 @@ html .svg-fill-color-secondary svg rect,
 html .svg-fill-color-secondary svg line,
 html .svg-fill-color-secondary svg polyline,
 html .svg-fill-color-secondary svg polygon {
-	fill: #fa827a !important;
+	fill: #0c65a2 !important;
 }
 
 html .svg-stroke-color-secondary {
-	stroke: #fa827a !important;
+	stroke: #0c65a2 !important;
 }
 
 html .svg-stroke-color-secondary svg path,
@@ -124,7 +130,7 @@ html .svg-stroke-color-secondary svg rect,
 html .svg-stroke-color-secondary svg line,
 html .svg-stroke-color-secondary svg polyline,
 html .svg-stroke-color-secondary svg polygon {
-	stroke: #fa827a !important;
+	stroke: #0c65a2 !important;
 }
 
 html .svg-fill-color-tertiary {
