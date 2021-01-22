@@ -240,6 +240,8 @@ html .bg-primary {
 	background-color: rgba(71, 122, 59, 0.77) !important;
 }
 
+
+
 html .bg-color-hover-primary:hover,
 html .bg-hover-primary:hover {
 	background-color: rgba(71, 122, 59, 0.77) !important;
@@ -263,28 +265,28 @@ html .bg-color-hover-before-primary:before:hover {
 
 html .bg-color-secondary,
 html .bg-secondary {
-	background-color: #fa827a !important;
+	background-color: #0c65a2 !important;
 }
 
 html .bg-color-hover-secondary:hover,
 html .bg-hover-secondary:hover {
-	background-color: #fa827a !important;
+	background-color: #0c65a2 !important;
 }
 
 html .bg-color-after-secondary:after {
-	background-color: #fa827a !important;
+	background-color: #0c65a2 !important;
 }
 
 html .bg-color-hover-after-secondary:after:hover {
-	background-color: #fa827a !important;
+	background-color: #0c65a2 !important;
 }
 
 html .bg-color-before-secondary:before {
-	background-color: #fa827a !important;
+	background-color: #0c65a2 !important;
 }
 
 html .bg-color-hover-before-secondary:before:hover {
-	background-color: #fa827a !important;
+	background-color: #0c65a2 !important;
 }
 
 html .bg-color-tertiary,
@@ -943,15 +945,15 @@ html .show > .btn-primary-scale-2.dropdown-toggle {
 }
 
 html .btn-secondary {
-	background-color: #fa827a;
-	border-color: #fa827a #fa827a #f85449;
+	background-color: #0c65a2;
+	border-color: #0c65a2 #0c65a2 #0c65a2;
 	color: #FFF;
 }
 
 html .btn-secondary:hover,
 html .btn-secondary.hover {
-	background-color: #fba59f;
-	border-color: #fcb0ab #fcb0ab #fa827a;
+	background-color: #0c65a2;
+	border-color: #0c65a2 #0c65a2#0c65a2;
 	color: #FFF;
 }
 
@@ -4928,7 +4930,7 @@ html .countdown.countdown-primary > span > span {
 }
 
 html .countdown.countdown-secondary > span > span {
-	color: #fa827a;
+	color: #0c65a2;
 }
 
 html .countdown.countdown-tertiary > span > span {
