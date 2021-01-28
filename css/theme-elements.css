@@ -1923,8 +1923,8 @@ html body.body .btn:active {
 }
 
 .btn-outline.btn-primary:hover, .btn-outline.btn-primary.hover {
-	color: #FFF;
-	background-color: #CCC;
+	color: rgb(10, 7, 7);
+	background-color: rgb(255, 255, 255);
 	border-color: #CCC;
 }
 
@@ -2241,7 +2241,7 @@ html body .btn-light:hover, html body .btn-light.hover,
 	html body .btn-outline.btn-light.hover {
 	background-color: #f2f2f2;
 	border-color: #e6e5e5 #e6e5e5 #cccccc;
-	color: #777;
+	color: rgb(5, 4, 4);
 }
 
 html body .btn-light:focus, html body .btn-light.focus,
@@ -12428,18 +12428,18 @@ html.boxed .slider-container {
 	transition: all 0.2s ease;
 	border-radius: 100%;
 	display: block;
-	height: 28px;
-	line-height: 28px;
-	width: 28px;
+	height: 38px;
+	line-height: 38px;
+	width: 38px;
 	text-align: center;
 	color: #333 !important;
 	text-decoration: none;
-	font-size: 12.8px;
+	font-size: 13.8px;
 	font-size: 0.8rem;
 }
 
 .social-icons li:hover a {
-	background: #151719;
+	background: #e6e7e9;
 	color: #FFF !important;
 }
 
@@ -12548,9 +12548,9 @@ html.boxed .slider-container {
 }
 
 .social-icons.social-icons-big li a {
-	height: 48px;
+	height: 58px;
 	line-height: 48px;
-	width: 48px;
+	width: 58px;
 }
 
 .social-icons.social-icons-opacity-light li a {
@@ -12576,7 +12576,7 @@ html.boxed .slider-container {
 }
 
 .social-icons:not(.social-icons-opacity-light):not(.social-icons-transparent):not(.social-icons-clean):not(.social-icons-clean-with-border):not(.social-icons-dark):not(.social-icons-dark-2):not(.custom-social-icons) li {
-	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1px 1px 0 rgba(255, 255, 255, 0.945);
 }
 
 .social-icons:not(.social-icons-opacity-light):not(.social-icons-transparent):not(.social-icons-clean):not(.social-icons-clean-with-border):not(.social-icons-dark):not(.social-icons-dark-2):not(.custom-social-icons) li a {
