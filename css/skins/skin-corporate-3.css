@@ -3890,7 +3890,7 @@ html[dir="rtl"] #header .tip-light:before {
 	background: #0c65a2;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 892px) {
 	#header .header-nav-main nav > ul > li > a {
 		color: 	#0c65a2;
 	}
