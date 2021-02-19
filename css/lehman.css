@@ -3955,7 +3955,7 @@ html {
   }
   
   .container.layout-full,.container.layout-semifull,.container.layout-image {
-    max-width: 80em;
+    max-width: 90em;
     margin-left: auto;
     margin-right: auto;
   }
@@ -4265,7 +4265,7 @@ html {
     
     .layout-footer-lehman {
       float: left;
-      width: 20.36%;
+      width: 20.56%;
       list-style: none;
       margin-left: 2.17%;
       margin-right: 2.17%;
