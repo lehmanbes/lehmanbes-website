@@ -1392,7 +1392,7 @@ html.sticky-header-enabled.sticky-header-active #header .header-logo-sticky-chan
 		white-space: normal;
 		border-radius: 4px;
 		color: #CCC;
-		font-size: 16px;
+		font-size: 14px;
 		font-style: normal;
 		font-weight: 700;
 		padding: 0.5rem 1rem;
@@ -4675,7 +4675,7 @@ html.ie #header .header-column .header-extra-info .feature-box .feature-box-info
 }
 
 .page-header.page-header-modern.page-header-md {
-	padding: 50px 0;
+	padding: 40px 0;
 }
 
 .page-header.page-header-modern.page-header-lg {
@@ -4702,7 +4702,7 @@ html.ie #header .header-column .header-extra-info .feature-box .feature-box-info
 }
 
 .page-header.page-header-modern.page-header-background.page-header-background-md {
-	padding: 150px 0;
+	padding: 140px 0;
 }
 
 .page-header.page-header-modern.page-header-background.page-header-background-lg {
